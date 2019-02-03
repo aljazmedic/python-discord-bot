@@ -3,6 +3,12 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+#programs temp folder
+discord-api/*
+
+#keep only the folder
+!discord-api/.gitkeep
+
 # C extensions
 *.so
 
